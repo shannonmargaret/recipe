@@ -2,4 +2,8 @@ Polenta
 - 1 cup cornmeal
 - 2 veggie stock
 - lots of patience
+<<<<<<< HEAD
 - lots of wine to kill the time
+=======
+- delicious cheese
+>>>>>>> 643732a836bc853379add98f6ad8c2373445b3f1
